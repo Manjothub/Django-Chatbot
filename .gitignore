@@ -1,0 +1,5 @@
+db.sqlit3
+.vscode
+venv
+__pycache__
+migrations
